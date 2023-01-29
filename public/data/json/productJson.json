@@ -624,22 +624,6 @@
         "reviewers_num": 7
     },
     {
-        "id": 39,
-        "name": "Amrut Portpipe Peated Single Cask #2712 (2013)",
-        "price": 125,
-        "country": "India",
-        "type": "Malt",
-        "image_path_0": "data\/images\/Amrut_Portpipe_Peated_Single_Cask_#2712_(2013)_0.jpg",
-        "image_path_1": "data\/images\/Amrut_Portpipe_Peated_Single_Cask_#2712_(2013)_1.jpg",
-        "image_path_2": "data\/images\/Amrut_Portpipe_Peated_Single_Cask_#2712_(2013)_2.jpg",
-        "class": "SingleMalt-like",
-        "super_cluster": "J",
-        "cluster": "J",
-        "meta_critic": 8.95,
-        "stdev": 0.1,
-        "reviewers_num": 3
-    },
-    {
         "id": 40,
         "name": "Millstone 12yo Sherry Cask",
         "price": 125,
@@ -656,22 +640,6 @@
         "reviewers_num": 12
     },
     {
-        "id": 41,
-        "name": "Amrut Portpipe Peated Single Cask #4668 (2017)",
-        "price": 125,
-        "country": "India",
-        "type": "Malt",
-        "image_path_0": "data\/images\/Amrut_Portpipe_Peated_Single_Cask_#4668_(2017)_0.jpg",
-        "image_path_1": "data\/images\/Amrut_Portpipe_Peated_Single_Cask_#4668_(2017)_1.jpg",
-        "image_path_2": "data\/images\/Amrut_Portpipe_Peated_Single_Cask_#4668_(2017)_2.jpg",
-        "class": "SingleMalt-like",
-        "super_cluster": "J",
-        "cluster": "J",
-        "meta_critic": 9.04,
-        "stdev": 0.24,
-        "reviewers_num": 3
-    },
-    {
         "id": 42,
         "name": "Amrut Peated Cask Strength",
         "price": 125,
@@ -686,22 +654,6 @@
         "meta_critic": 9.05,
         "stdev": 0.28,
         "reviewers_num": 18
-    },
-    {
-        "id": 43,
-        "name": "Amrut Portpipe Peated Single Cask #2712 (2016)",
-        "price": 125,
-        "country": "India",
-        "type": "Malt",
-        "image_path_0": "data\/images\/Amrut_Portpipe_Peated_Single_Cask_#2712_(2016)_0.jpg",
-        "image_path_1": "data\/images\/Amrut_Portpipe_Peated_Single_Cask_#2712_(2016)_1.jpg",
-        "image_path_2": "data\/images\/Amrut_Portpipe_Peated_Single_Cask_#2712_(2016)_2.jpg",
-        "class": "SingleMalt-like",
-        "super_cluster": "J",
-        "cluster": "J",
-        "meta_critic": 8.68,
-        "stdev": 0.51,
-        "reviewers_num": 6
     },
     {
         "id": 44,
@@ -862,22 +814,6 @@
         "meta_critic": 8.08,
         "stdev": 0.56,
         "reviewers_num": 14
-    },
-    {
-        "id": 54,
-        "name": "Amrut Portpipe Peated Single Cask #2713 (2013)",
-        "price": 125,
-        "country": "India",
-        "type": "Malt",
-        "image_path_0": "data\/images\/Amrut_Portpipe_Peated_Single_Cask_#2713_(2013)_0.jpg",
-        "image_path_1": "data\/images\/Amrut_Portpipe_Peated_Single_Cask_#2713_(2013)_1.jpg",
-        "image_path_2": "data\/images\/Amrut_Portpipe_Peated_Single_Cask_#2713_(2013)_2.jpg",
-        "class": "SingleMalt-like",
-        "super_cluster": "J",
-        "cluster": "J",
-        "meta_critic": 8.74,
-        "stdev": 0.15,
-        "reviewers_num": 4
     },
     {
         "id": 55,
